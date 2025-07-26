@@ -7,3 +7,7 @@ Agile Certificate
 GIT Certificate 1
 
 ![GIT Training](GIT/GIT_Training.jpg)
+
+GIT Certificte 2 
+
+![GIT Basics](GIT/GIT_Basics.jpg)
