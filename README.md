@@ -11,3 +11,7 @@ GIT Certificate 1
 GIT Certificate 2 
 
 ![GIT Basics](GIT/GIT_Basics.png)
+
+GIT Certificate 3
+
+![GIT Branches](GIT/GIT_Branches.png)
