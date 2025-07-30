@@ -16,6 +16,10 @@ GIT Certificate 3
 
 ![GIT Branches](GIT/GIT_Branches.png)
 
-LINUX Command History
+LINUX Command History 1
 
 ![LINUX history](LINUX/LINUX_history.jpg)
+
+LINUX Command History 2
+
+![LINUX Command](LINUX/LINUX_Command.jpg)
