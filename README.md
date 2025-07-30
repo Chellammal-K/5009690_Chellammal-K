@@ -23,3 +23,7 @@ LINUX Command History 1
 LINUX Command History 2
 
 ![LINUX Command](LINUX/LINUX_Command.jpg)
+
+C Introduction 
+
+![C Introduction](C/C_Introduction.png)
