@@ -31,3 +31,7 @@ LINUX Command History 2
 C Introduction 
 
 ![C Introduction](C/C_Introduction.png)
+
+C Intermediate
+
+![C Intermediate](C/C_Intermediate.jpg)
