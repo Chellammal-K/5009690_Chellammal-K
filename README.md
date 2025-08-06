@@ -34,4 +34,4 @@ C Introduction
 
 C Intermediate
 
-![C Intermediate](C/C_Intermediate.jpg)
+![C intermediate](C/C_intermediate.png)
